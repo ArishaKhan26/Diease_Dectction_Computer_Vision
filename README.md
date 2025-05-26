@@ -25,7 +25,11 @@ o	Training: 70%
 o	Validation: 15% 
 o	Test: 15% 
 
-
+**How to run**
+1. Download both files, the python file and notebook file.
+2. Run each cell of the notebook
+3. After running all cells run flask python file
+4. Upload images from the dataset
 
 **Methodology**
 1. Leaf Cropping
