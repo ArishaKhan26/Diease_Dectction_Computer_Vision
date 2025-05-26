@@ -12,7 +12,7 @@ This project focuses on making a modular pipeline for detecting and quantifying 
 **Dataset Description**
 1. Source and Link
 •	Source: Kaggle
-•	URL: PlantVillage Dataset
+•	URL: [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
  2. Structure & Attributes
 •	Classes: 7 crop species 
